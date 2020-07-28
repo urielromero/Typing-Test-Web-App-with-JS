@@ -107,5 +107,6 @@ header h1{
     .container{
         width: 100%;
         padding: 0;
+        background-color: blue;
     }
 }
