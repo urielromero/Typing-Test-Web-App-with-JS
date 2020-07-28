@@ -68,12 +68,12 @@ function spellCheck(){
         
         //stops timer, updates color to green, and sets timerRunning boolean to stop timer from re starting if text is deleted in the same session. 
         clearInterval(interval);
-        textBoder.style.borderColor ="green";
+        textBoder.style.borderColor = "#00cc00";
         
     }else{
         // blue indicates partially complete with no errors
         if( textEntered == originalTextMatch ){
-            textBoder.style.borderColor ="lightblue";
+            textBoder.style.borderColor ="#0099ff";
             // red- there are  errors in the test
         }else{
             textBoder.style.borderColor ="red";
