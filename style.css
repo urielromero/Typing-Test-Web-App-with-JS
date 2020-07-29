@@ -107,6 +107,13 @@ header h1{
     .container{
         width: 100%;
         padding: 0;
-        background-color: blue;
     }
+    
+    .text-border{
+        margin: 1em 0;;
+    }
+    
+    .instructions p{
+        padding: .5em;
+
 }
