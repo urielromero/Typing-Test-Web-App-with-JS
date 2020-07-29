@@ -1,0 +1,11 @@
+This is a simple application where I use JavaScript to code the functionality of the page. 
+
+The primary purpose is to see how JS allows us to interact with HTML elements on real time. And how it can be used to add, remove and edit interactive aspects in 
+html elemets and css styling as well. 
+
+Future features that could be included in the future as I learn would be to add a better look, record and display timers for each try in your session, 
+add more options to select a different text, etc. These feature may come in the future or may be inmplemented in a new website.
+
+Visti the page at:  
+
+https://urielromero.github.io/Typing-Test-Web-App-with-JS/
